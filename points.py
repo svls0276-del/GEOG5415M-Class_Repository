@@ -18,6 +18,9 @@ points_list = [
     # [ latitude, longitude, "description" ],
     # [ latitude, longitude, "description" ],
     [  53.814665, -1.6376061, "Fran's favourite bakery"],
+    
+    [  53.800622, -1.5483202, "The Leeds Art Gallery!" ],
+    [  53.798874, -1.5408800, "Rayan's Favourite Japanese Restaurant" ],
 
 ]
 
