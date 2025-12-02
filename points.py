@@ -21,6 +21,8 @@ points_list = [
     
     [  53.800622, -1.5483202, "The Leeds Art Gallery!" ],
     [  53.798874, -1.5408800, "Rayan's Favourite Japanese Restaurant" ],
+    [  53.815100, -1.571400, "Hyde Park" ]
+    [  53.794900, -1.547400, "The Leeds railway station" ]
 
 ]
 
